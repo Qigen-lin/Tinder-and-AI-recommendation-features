@@ -31,8 +31,8 @@ McLeuker/
 git clone https://github.com/Qigen-lin/Tinder-and-AI-recommendation-features.git
 ```
 ## Contributing
-> Fork repo
-> Create feature branch git checkout -b feature/my-feature
->Commit git commit -m "Add my feature"
->Push git push origin feature/my-feature
->Open PR
+- Fork repo
+- Create feature branch git checkout -b feature/my-feature
+- Commit git commit -m "Add my feature"
+- Push git push origin feature/my-feature
+- Open PR
