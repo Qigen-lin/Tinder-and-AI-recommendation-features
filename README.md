@@ -5,9 +5,9 @@ McLeuker is a full-stack AI-powered platform for sustainable fashion.
 
 Core modules:
 - Consumer swipe interface for products
-- AI-powered outfit & supplier recommendations
+- AI-powered brand outfit & supplier recommendations
 - Short-video UGC platform 
-- Marketplace for sustainable brands & suppliers   
+- Marketplace(Amazon) for sustainable brands & suppliers   
  
 
 ## Repository Structure
